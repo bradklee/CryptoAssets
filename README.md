@@ -2,10 +2,11 @@
 Data for Water Tiger Year 2022 coding challenge.
 
 Raw Data in ExCrypt1 & ExCrypt2 encrypted using 
-pads in ExampleAG3Ds (3D Autoglyphs).
+pads in ExampleAG3Ds (3D Autoglyphs). Voxel 
+plot for fun. 
 
 These are PoC examples, so 8 characteristic pads
-have been reused, sorry not sorry.
+have been reused. Sorry not sorry.
 
 Upcomming Contest will use one-time pads generated
 from a stream of secret keys. 
